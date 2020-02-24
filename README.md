@@ -1,4 +1,4 @@
 # Portfolio-Site
 This is my Portfolio Site on Sass
 
-In this site has information about me and my projects
+On my site there is information about me and my projects and other information
